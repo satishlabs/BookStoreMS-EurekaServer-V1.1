@@ -1,0 +1,90 @@
+http://localhost:9000/swagger-ui.html
+http://localhost:8000/swagger-ui.html
+http://localhost:7000/swagger-ui.html
+http://localhost:6500/swagger-ui.html
+http://localhost:5000/swagger-ui.html
+
+
+
+
+insert into mybookprice values(101,10,2000); 
+insert into mybookprice values(102,7,1000); 
+insert into mybookprice values(103,10,2000); 
+insert into mybookprice values(104,5,1000); 
+insert into mybookprice values(105,10,3000); 
+insert into mybookprice values(106,8,2000); 
+insert into mybookprice values(107,10,2000); 
+insert into mybookprice values(108,15,1000); 
+insert into mybookprice values(109,10,3000); 
+
+
+
+insert into mybooks values(101,'Srinivas','Master Spring Boot','Spring','JLC'); 
+insert into mybooks values(102,'Sri','Master MicroServices','Spring','JLC'); 
+insert into mybooks values(103,'Srinivas','Master Angular','Web','JLC'); 
+insert into mybooks values(104,'Sri','Master React','Web','JLC'); 
+insert into mybooks values(105,'Srinivas','Master Spring Framework','Spring','JLC'); 
+insert into mybooks values(106,'Vas','Master Spring Security','Spring','JLC'); 
+insert into mybooks values(107,'Srinivas','Master Vue JS','Web','JLC'); 
+insert into mybooks values(108,'JLC','Node JS','Web','Vas'); 
+insert into mybooks values(109,'Srinivas','Master Spring Rest','Spring','JLC'); 
+
+
+
+insert into mybookratings values(101,3.5,99); 
+insert into mybookratings values(102,3.5,99); 
+insert into mybookratings values(103,3.5,99); 
+insert into mybookratings values(104,3.5,99); 
+insert into mybookratings values(105,3.5,99); 
+insert into mybookratings values(106,3.5,99); 
+insert into mybookratings values(107,3.5,99); 
+insert into mybookratings values(108,3.5,99); 
+insert into mybookratings values(109,3.5,99); 
+
+
+insert into mybookinventory values(101,50); 
+insert into mybookinventory values(102,50); 
+insert into mybookinventory values(103,50); 
+insert into mybookinventory values(104,50); 
+insert into mybookinventory values(105,50); 
+insert into mybookinventory values(106,50); 
+insert into mybookinventory values(107,50); 
+insert into mybookinventory values(108,50); 
+insert into mybookinventory values(109,50);
+
+
+
+
+insert into myorders values(1001,'12-Sept-2020','New',500,5,'U-123'); 
+
+
+insert into myorderitems values(1,101,200,1001,2); 
+insert into myorderitems values(2,102,300,1001,3); 
+
+insert into mybookinventory values(101,50); 
+insert into mybookinventory values(102,50); 
+insert into mybookinventory values(103,50); 
+insert into mybookinventory values(104,50); 
+insert into mybookinventory values(105,50); 
+insert into mybookinventory values(106,50); 
+insert into mybookinventory values(107,50); 
+insert into mybookinventory values(108,50); 
+insert into mybookinventory values(109,50);
+
+
+insert into myuserratings values(1,101,3.5,'Excellent','U-11'); 
+insert into myuserratings values(2,102,3.5,'Good','U-12'); 
+insert into myuserratings values(3,101,3.5,'Excellent','U-13'); 
+insert into myuserratings values(4,103,3.5,'Good','U-11'); 
+insert into myuserratings values(5,104,3.5,'Excellent','U-12'); 
+
+
+insert into mybookratings values(101,3.5,99); 
+insert into mybookratings values(102,3.5,99); 
+insert into mybookratings values(103,3.5,99); 
+insert into mybookratings values(104,3.5,99); 
+insert into mybookratings values(105,3.5,99); 
+insert into mybookratings values(106,3.5,99); 
+insert into mybookratings values(107,3.5,99); 
+insert into mybookratings values(108,3.5,99); 
+insert into mybookratings values(109,3.5,99); 
